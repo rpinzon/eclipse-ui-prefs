@@ -1,7 +1,7 @@
-eclipse-ui-prefs
-================
-
 Eclipse UI Preferences
+======================
+
+Some Java editor preferences modified in order to be more clear when reading the code
 
 Requirements
 ------------
