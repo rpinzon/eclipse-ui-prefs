@@ -12,6 +12,6 @@ Requirements
 Installation
 ------------
 
-* Start Eclipse and go to *Preferences > General > Appearance* and choose *MoonRise* (optional)
+* Start Eclipse and go to *Preferences > General > Appearance* and choose *MoonRise (standalone)* (optional)
 * Go to *Preferences > General > Appearance > Color Theme* and choose *Obsidian*
 * Copy all files to {workspace directory} ({workspace directory}/.metadata/.plugins/org.eclipse.core.runtime/.settings/*.prefs)
